@@ -13,7 +13,7 @@ string isPalindrome(string S)
 }
 int main()
 {
-    string S = "madam";
+    string S = "malayalam";
     cout << isPalindrome(S);
     return 0;
 }
