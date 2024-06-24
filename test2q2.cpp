@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class Ram{
+class KL{
 	public:
 		int n;
 		int digit;
@@ -18,7 +18,7 @@ class Ram{
 };
 
 int main(){
-	int n=123;
-	Ram r;
+	int n=187;
+	KL r;
 	r.rev(n);
 }
